@@ -1,2 +1,3 @@
-# nibbles
-Clássico jogo da cobrinha (nibbles) [TEXT MODE]
+# Nibbles
+
+Clássico jogo da cobrinha (nibbles) feito usando a biblioteca ncurses para terminal.
